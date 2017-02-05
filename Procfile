@@ -1,1 +1,1 @@
-weg: gunicorn roues:app
+weg: gunicorn routes:app
